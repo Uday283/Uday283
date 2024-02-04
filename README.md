@@ -98,7 +98,7 @@ I am a student, currently studying in Vellore Institute of Technology. From very
 
 ## What I want to do next :thinking:
 - Delve into AI and ML
-- Devops
+- DevOps
 - Qualify for GSOC 
 
 ## Reach me 
@@ -108,7 +108,7 @@ I am a student, currently studying in Vellore Institute of Technology. From very
 
 ### Interesting stats
 
-<--![Uday kiran's stats](https://github-readme-stats.vercel.app/api?username=uday283&show_icons=true&count_private=true&hide=stars)-->
+<!-- ![Uday kiran's stats](https://github-readme-stats.vercel.app/api?username=uday283&show_icons=true&count_private=true&hide=stars) -->
 
 
 <p ><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=uday283&show_icons=true&locale=en&layout=compact" alt="uday283" /></p>
