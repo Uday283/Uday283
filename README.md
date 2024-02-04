@@ -102,7 +102,7 @@ I am a student, currently studying in Vellore Institute of Technology. From very
 - Qualify for GSOC 
 
 ## Reach me 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/soma-uday-kiran-43247a220/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soma-uday-kiran-43247a220/) 
 [![Mail](https://img.shields.io/badge/-somaudaykiran89@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://linkedin.com/in/https://www.linkedin.com/in/soma-uday-kiran-43247a220/)](mailto:somaudaykiran89@gmail.com)
 
 
