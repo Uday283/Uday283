@@ -8,7 +8,7 @@ I am a student, currently studying in Vellore Institute of Technology. From very
 
 ## What I know :computer:
 - **Programming Languages (Data Structures & Algorithms)**
-	<div align="center">
+	<div align="left">
 		<table>
 			<tbody>
 				<tr>
@@ -21,7 +21,7 @@ I am a student, currently studying in Vellore Institute of Technology. From very
 						<img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png">
 					</td>
           <td width="25%" align="center">
-						<span><strong>C</strong></span><br/>
+						<span><strong>C language</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/c.svg">
 					</td>
 					<td width="25%" align="center">
@@ -37,7 +37,7 @@ I am a student, currently studying in Vellore Institute of Technology. From very
 		</table>
 	</div>
 - **Frontend Development**
-<div align="center">
+<div align="left">
 		<table>
 			<tbody>
 				<tr>
@@ -71,7 +71,7 @@ I am a student, currently studying in Vellore Institute of Technology. From very
 	</div>
 	
 - **Backend Development**
-	<div align="center">
+	<div align="left">
 		<table>
 			<tbody>
 				<tr>
